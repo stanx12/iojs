@@ -1,0 +1,19 @@
+{
+  "name": "iojs_first_app",
+  "version": "1.0.0",
+  "description": "My first iojs app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanx12/iojs.git"
+  },
+  "author": "Gerald Padgett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanx12/iojs/issues"
+  },
+  "homepage": "https://github.com/stanx12/iojs#readme"
+}
